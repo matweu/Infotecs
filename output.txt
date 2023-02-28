@@ -1,0 +1,14 @@
+2023-02-26 12:35:48
+Critical values detected,Anomaly time: 2023-02-26 15:58:01 
+libreoffice: 1
+gnome-terminal-server: 1
+gnome-system-monitor: 1
+nm-connection-editor: 1
+gnome-control-center: 1
+seahorse: 1
+Critical values detected,Anomaly time: 2023-02-28 03:22:31 
+libreoffice: 1
+gnome-terminal-server: 1
+gnome-system-monitor: 1
+nm-connection-editor: 1
+seahorse: 1
