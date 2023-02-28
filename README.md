@@ -28,4 +28,4 @@
 
 </pre>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python]([https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png](https://cdn-icons-png.flaticon.com/512/5968/5968350.png))
+![Python](https://sun9-45.userapi.com/s/v1/if1/uxOYT6SXY5sqbamHyTMMIJCaOu8VkugZJ_A86PIQ6CZXJMrBWJltSFy-A9kE_RZKW2RYGg.jpg?size=50x50&quality=96&crop=0,0,280,280&ava=1)
