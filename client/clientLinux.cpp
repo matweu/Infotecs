@@ -150,7 +150,7 @@ int main()
     {
       string str = to_string(MeaningObjects[i]);
       char const *n_char = str.c_str();
-      sendmes = send(ConnectSOCKET, n_char, strlen(n_char), 0); // использовать strlen(n_char) вместо buf.size()
+      sendmes = send(ConnectSOCKET, n_char, strlen(n_char), 0);
       if (sendmes == -1)
       {
         cout << "Message to server not delivered" << endl;
